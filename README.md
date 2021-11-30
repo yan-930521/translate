@@ -1,4 +1,7 @@
 # info
+Translate Chinese sentences entered with English input method into Chinese
+
+
 之所以會做這個小工具是因為 ~~我有個懶惰的朋友~~
 ![image](https://media.discordapp.net/attachments/914912609587830835/915223243382747136/unknown.png)
 據我朋友所說<br>
