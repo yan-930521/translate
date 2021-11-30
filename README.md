@@ -1,5 +1,5 @@
 # info
-Translate Chinese sentences entered with English input method into Chinese
+Translate Chinese sentences typed in by English input method into Chinese
 
 
 之所以會做這個小工具是因為 ~~我有個懶惰的朋友~~
